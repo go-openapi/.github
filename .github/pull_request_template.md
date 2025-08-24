@@ -1,5 +1,5 @@
 ---
-name: 'Please selct: 🆕 New feature or enhancement|🔧 Bug fix'|📃 Documentation update'
+name: 'Please select: 🆕 New feature or enhancement|🔧 Bug fix'|📃 Documentation update'
 about: Help us enhance go-openapi by adding or improving features
 title: ''
 labels: [enhancement]

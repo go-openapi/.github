@@ -1,11 +1,4 @@
----
-name: '📃 Documentation update'
-about: Help us improve go-openapi documentation
-title: ''
-labels: [doc]
-assignees: ''
-
----
+## Change type: 📃 Documentation update
 
 ## Short description
 <!-- clear and concise description of your change -->

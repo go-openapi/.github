@@ -1,11 +1,6 @@
----
-name: 'Please select: 🆕 New feature or enhancement|🔧 Bug fix'|📃 Documentation update'
-about: Help us enhance go-openapi by adding or improving features
-title: ''
-labels: [enhancement]
-assignees: ''
+## Change type
 
----
+Please select: 🆕 New feature or enhancement|🔧 Bug fix'|📃 Documentation update
 
 ## Short description
 <!-- Please provide a short description of your change -->

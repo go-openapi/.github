@@ -1,11 +1,4 @@
----
-name: '🔧 Bug fix'
-about: Fix a bug to help us make go-openapi a great project
-title: ''
-labels: [bug]
-assignees: ''
-
----
+## Change type: 🔧 Bug fix
 
 ## Short description
 <!-- clear and concise description of your change -->

@@ -1,11 +1,4 @@
----
-name: '🆕 New feature or enhancement'
-about: Help us enhance go-openapi by adding or improving features
-title: ''
-labels: [enhancement]
-assignees: ''
-
----
+## Change type: 🆕 New feature or enhancement
 
 ## Short description
 <!-- Please provide a short description of your change -->
